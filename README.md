@@ -13,3 +13,10 @@
 	- open php.ini ->
 	- under Dynamic Extensions section ->
 	- add a line : extension=php_mongodb.dll
+
+Measuring time to load users...
+Measuring time to load users in chunks...
+Measuring time to load countries...
+Number of users: 1000056
+Time to load users: 83.483525037766 seconds      
+Time to load countries: 0.038795948028564 seconds
